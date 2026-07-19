@@ -23,7 +23,7 @@ title: "How to Write an IETF draft Using Github"
 abbrev: "draft-using-github"
 category: info
 
-docname: ietf-tmpwg-draft-wang-00
+docname: ietf-tmpwg-draft-wang-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
