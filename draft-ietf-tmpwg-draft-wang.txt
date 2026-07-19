@@ -9,7 +9,7 @@ Expires: 20 January 2027
 
 
                 How to Write an IETF draft Using Github
-                        ietf-tmpwg-draft-wang-00
+                      ietf-tmpwg-draft-wang-latest
 
 Abstract
 
