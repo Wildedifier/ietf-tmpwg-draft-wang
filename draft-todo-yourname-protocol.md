@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "How to Write an IETF draft Using Github"
+abbrev: "draft-using-github"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: ietf-tmpwg-draft-wang-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
