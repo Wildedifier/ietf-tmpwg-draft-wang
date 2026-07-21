@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:43:36.686878+00:00",
+  "repo": "Wildedifier/ietf-tmpwg-draft-wang",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKpx87zhneN",
+      "title": "Have title now",
+      "url": "https://github.com/Wildedifier/ietf-tmpwg-draft-wang/pull/1",
+      "state": "MERGED",
+      "author": "Wildedifier",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added the title",
+      "createdAt": "2026-07-19T11:33:28Z",
+      "updatedAt": "2026-07-19T11:37:38Z",
+      "baseRepository": "Wildedifier/ietf-tmpwg-draft-wang",
+      "baseRefName": "main",
+      "baseRefOid": "9efb3ca0af5b2dd133c1135da1d99bfbdfc8edc7",
+      "headRepository": "Wildedifier/ietf-tmpwg-draft-wang",
+      "headRefName": "Wildedifier-patch-1",
+      "headRefOid": "dc34c77e2d13a5667ef305a35897ffa1da7cacf4",
+      "closedAt": "2026-07-19T11:37:37Z",
+      "mergedAt": "2026-07-19T11:37:37Z",
+      "mergedBy": "Wildedifier",
+      "mergeCommit": {
+        "oid": "7144ed85607a7f571e5c2053587c7af2af79a6ef"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
